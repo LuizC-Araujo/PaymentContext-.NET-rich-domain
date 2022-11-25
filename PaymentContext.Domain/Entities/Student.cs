@@ -34,10 +34,22 @@ public class Student : Entity
         
         // AddNotifications(new Contract<Student>()
         //     .Requires()
-        //     .IsFalse(hasSubscriptionActive,"Student.Subscription","Você já tem uma assinatura ativa"));
-        
+        //     .IsFalse(hasSubscriptionActive,"Student.Subscription","Você já tem uma assinatura ativa")
+        //     .AreEquals(0, subscription.Payments.Count, "Student.Subscription.Payments", "Esta assinatura não possui pagamentos"));
+
         // Alternativa
         if (hasSubscriptionActive)
-            AddNotification("Student.Subscription", "VocÊ já tem uma assinatura ativa!");
+        {
+            AddNotification("Student.Subscription", "Voce já possui uma assinatura ativa!");
+            return;
+        }
+
+        if (subscription.Payments.Count is 0)
+        {
+            AddNotification("Student.Subscription.Payments", "Essa assinatura não possui pagamentos");
+            return;
+        }
+        
+        _subscriptions.Add(subscription);
     }
 }

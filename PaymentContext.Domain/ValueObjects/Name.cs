@@ -9,10 +9,6 @@ public class Name : ValueObject
     {
         FirstName = firstName;
         LastName = lastName;
-
-        AddNotifications(new Contract<Name>()
-            .Requires().IsNullOrEmpty(FirstName, "Name.FirstName", "Nome não pode ser nulo ou vazio!")
-            .Requires().IsNullOrEmpty(LastName, "Nome.LastName", "Sobrenome não pode ser nulo ou vazio!"));
     }
 
     public string FirstName { get; private set; }
