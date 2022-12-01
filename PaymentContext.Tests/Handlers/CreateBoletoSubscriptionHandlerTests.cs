@@ -48,4 +48,13 @@ public class CreateBoletoSubscriptionHandlerTests
         _handler.Handle(_command);
         Assert.AreEqual(false, _handler.IsValid);
     }
+
+    [TestMethod]
+    public void ShouldReturnErrorWhenEmailExists()
+    {
+        _command.Email = "luiz@luiz.com.br";
+
+        _handler.Handle(_command);
+        Assert.AreEqual(false, _handler.IsValid);
+    }
 }
