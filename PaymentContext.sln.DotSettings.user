@@ -1,0 +1,93 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=054afdb8_002Df746_002D4f2a_002Db04f_002Dd5a632a0b8ee/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnStudentWhenDocumentExits" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Queries.StudentQueriesTests.ShouldReturnStudentWhenDocumentExits&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0f04f7b9_002D29e2_002D417f_002D981b_002D2559b4e1dcea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaymentTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Entities.PaymentTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Commands.CreateBoletoSubscriptionCommandTests.ShouldReturnErrorWhenNameIsInvalid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=162d278e_002D7047_002D4f84_002D8fba_002Da7a202176bb8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnErrorWhenDocumentExists" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Handlers.CreateBoletoSubscriptionHandlerTests.ShouldReturnErrorWhenDocumentExists&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1672d25e_002Dc51b_002D4436_002Db8ce_002Db9cd48f9a69e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DocumentTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.ValueObjects.DocumentTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Entities.PaymentTests.ShouldReturnSucessWhenTotalMoreOrEqualThanZero&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17a73963_002Dc6b7_002D4576_002Da448_002D0842f54485b6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnErrorWhenDocumentExists #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Handlers.CreateBoletoSubscriptionHandlerTests.ShouldReturnErrorWhenDocumentExists&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2afe96a9_002Dc467_002D4cb0_002Db5ad_002Dca04df3e2822/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldReturnStudentWhenDocumentExits #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Queries.StudentQueriesTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b292c34_002Df109_002D4afc_002Da1df_002Daee87fe17ded/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnErrorWhenNameIsInvalid #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Commands.CreateBoletoSubscriptionCommandTests.ShouldReturnErrorWhenNameIsInvalid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Handlers.CreateBoletoSubscriptionHandlerTests.ShouldReturnErrorWhenDocumentExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Handlers.CreateBoletoSubscriptionHandlerTests.ShouldReturnErrorWhenEmailExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Handlers.CreateBoletoSubscriptionHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Queries.StudentQueriesTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=64aed545_002D477f_002D491d_002Daa41_002D7e1d720c22e7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnErrorWhenNameIsInvalid #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Commands.CreateBoletoSubscriptionCommandTests.ShouldReturnErrorWhenNameIsInvalid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6915d08a_002D0a3b_002D40fa_002D8a84_002Ddaa249ddf03c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnErrorWhenNameIsInvalid #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Commands.CreateBoletoSubscriptionCommandTests.ShouldReturnErrorWhenNameIsInvalid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Handlers.CreateBoletoSubscriptionHandlerTests.ShouldReturnErrorWhenDocumentExists&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6c8cd91c_002D8abf_002D4838_002D80fb_002D0d65a542e105/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DocumentTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.ValueObjects.DocumentTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Entities.StudentTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=be9b7be2_002D870b_002D4ba4_002Da5a5_002D384392910e29/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnErrorWhenNameIsInvalid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Commands.CreateBoletoSubscriptionCommandTests.ShouldReturnErrorWhenNameIsInvalid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c5cca923_002D2ba5_002D47e2_002Da158_002Da2cada65fc22/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnStudentWhenDocumentExits #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Queries.StudentQueriesTests.ShouldReturnStudentWhenDocumentExits&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c95dac4d_002D72b5_002D48b0_002Db090_002D4c79ad2209e2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnErrorWhenNameIsInvalid #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Commands.CreateBoletoSubscriptionCommandTests.ShouldReturnErrorWhenNameIsInvalid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Handlers.CreateBoletoSubscriptionHandlerTests.ShouldReturnErrorWhenDocumentExists&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d57b1ac1_002De4c0_002D4dc3_002Dbabf_002D6e31d152d2b8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnErrorWhenDocumentExists #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Handlers.CreateBoletoSubscriptionHandlerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eee83c8c_002D61b2_002D40c0_002D8e19_002D9a74ca6e4e71/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnErrorWhenTotalLessThanTotalPaid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Entities.PaymentTests.ShouldReturnErrorWhenTotalLessThanTotalPaid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f969282e_002Db956_002D4336_002Da71c_002D934524e88287/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnErrorWhenSubscriptionHasNoPayment" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Entities.StudentTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.ValueObjects.DocumentTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Entities.PaymentTests.ShouldReturnErrorWhenTotalLessThanZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A625270D-4305-4E0D-9188-6F0F0ADFDC64::net6.0::PaymentContext.Tests.Entities.PaymentTests.ShouldReturnSucessWhenTotalMoreOrEqualThanZero&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
