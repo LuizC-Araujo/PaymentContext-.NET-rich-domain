@@ -28,7 +28,7 @@ public class CreateBoletoSubscriptionHandlerTests
         _command.Total = 60;
         _command.TotalPaid = 60;
         _command.Payer = "Spider Corp";
-        _command.PayerDocument = "8888888888";
+        _command.PayerDocument = "88888888888";
         _command.PayerDocumentType = EDocumentType.CPF;
         _command.PayerEmail = "spider@spider.com.br";
         _command.Street = "assas";
