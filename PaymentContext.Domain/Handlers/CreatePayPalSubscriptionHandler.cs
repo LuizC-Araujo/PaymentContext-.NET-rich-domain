@@ -54,6 +54,10 @@ public class CreatePayPalSubscriptionHandler : SubscriptionHandler, IHandler<Cre
         // Agrupar as Validações
         AddNotifications(name, document, address, student, subscription, payment);
         
+        // Checar as notificações
+        if (!IsValid)
+            return new CommandResult(false, "Não foi possível realizar sua assinatura");
+        
         // Salvar as infomrções
         _repository.CreateSubscription(student);
         
