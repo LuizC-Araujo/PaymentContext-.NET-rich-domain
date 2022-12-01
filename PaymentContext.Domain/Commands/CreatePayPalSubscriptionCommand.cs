@@ -34,7 +34,7 @@ public class CreatePayPalSubscriptionCommand : Notifiable<Notification>, IComman
     
     public void Validate()
     {
-        AddNotifications(new Contract<CreateBoletoSubscriptionCommand>()
+        AddNotifications(new Contract<CreatePayPalSubscriptionCommand>()
             .Requires());
     }
 }
